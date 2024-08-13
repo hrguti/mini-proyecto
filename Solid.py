@@ -150,3 +150,5 @@ class RegistroEntradasSalidas:
 
     def registrar_entrada_salida(self, tipo):
         pass  # Lógica para registrar entradas y salidas
+    
+    # estoy ptobando que onda
